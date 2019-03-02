@@ -1,3 +1,17 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
+
+[params]
+    author = "tk3"
+
+[languages]
+    [languages.en]
+        languagename = "Japanese"
+        title = "tk3"
+
+        [languages.ja.params]
+        info = "Web developer"
+        description = "tk3's personal website"
+        keywords = "blog,developer,personal"
+
