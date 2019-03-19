@@ -24,7 +24,7 @@ enableRobotsTXT = true
 author = "tk3"
 intro = "tk3's site"
 description = "OK, tk3"
-authorimage = "headshot.jpg"
+authorimage = "qtkmz4.png"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
@@ -34,7 +34,7 @@ keywords = "minimalist,blog,goa,hugo,developer"
 
 ## Social Accounts
 [params.social]
-github = "qtkm"
+github = "qtkmz"
 instagram = "qtkmz"
 #xing = "<username>"
 #linkedin = "<username>"
@@ -60,7 +60,7 @@ twitter = "qtkmz"
 #keybase = "<username>"
 #twitch = "<username>"
 #soundcloud = "<username>"
-#tumblr = "<username>"
+tumblr = "qtkmz"
 #strava = "<username>"
 #skype = "<username>"
 #telegram = "<username>"
