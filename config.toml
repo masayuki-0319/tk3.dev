@@ -19,6 +19,7 @@ disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disa
 googleAnalytics = "XYZ"
 enableRobotsTXT = true
 
+
 ## Site Settings
 [params]
 author = "tk3"
@@ -80,7 +81,7 @@ socialmarkup = true
     name = "blog"
     weight = 100
     identifier = "blog"
-    url = "/blog/"
+    url = "/posts/"
 [[menu.main]]
     name = "about"
     identifier = "about"
