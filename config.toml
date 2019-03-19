@@ -1,17 +1,89 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+## Basic Configuration
 
+baseurl = "https://goofy-beaver-f3f98c.netlify.com/"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "tk3"
+title = "tk3"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
 [params]
-    author = "tk3"
+author = "tk3"
+intro = "tk3's site"
+description = "OK, tk3"
+authorimage = "headshot.jpg"
+dateformat = "Jan 2, 2006"
 
-[languages]
-    [languages.en]
-        languagename = "Japanese"
-        title = "tk3"
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
 
-        [languages.ja.params]
-        info = "Web developer"
-        description = "tk3's personal website"
-        keywords = "blog,developer,personal"
+## Social Accounts
+[params.social]
+github = "qtkm"
+instagram = "qtkmz"
+#xing = "<username>"
+#linkedin = "<username>"
+twitter = "qtkmz"
+#facebook = "<username>"
+#google = "<username>"
+#stackoverflow = "<username>"
+#lastfm = "<username>"
+#goodreads = "<username>"
+#gitlab = "<username>"
+#bitbucket = "<username>"
+#fivehundredpx = "<username>"
+#flickr = "<username>"
+#foursquare = "<username>"
+#hackernews = "<username>"
+#kickstarter = "<username>"
+#patreon = "<username>"
+#pintrest = "<username>"
+#steam = "<username>"
+#reddit = "<username>"
+#snapchat = "<username>"
+#youtube = "<username>"
+#keybase = "<username>"
+#twitch = "<username>"
+#soundcloud = "<username>"
+#tumblr = "<username>"
+#strava = "<username>"
+#skype = "<username>"
+#telegram = "<username>"
+#whatsapp = "<username>"
+#email = "you@example.com"
+
+## Extras
+[params.extra]
+#copyright = "© 2016. Erlich Bachman. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+copyright = "© 2019. tk3"
+poweredby = true
+highlightjs = true
+socialmarkup = true
+
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
 
