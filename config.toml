@@ -15,8 +15,8 @@ title = "tk3"
 theme = "hugo-goa"
 
 ## Hugo Built-in Features
-disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
-googleAnalytics = "XYZ"
+#disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+googleAnalytics = "UA-119331052-2"
 enableRobotsTXT = true
 
 
@@ -37,40 +37,11 @@ keywords = "minimalist,blog,goa,hugo,developer"
 [params.social]
 github = "qtkmz"
 instagram = "qtkmz"
-#xing = "<username>"
-#linkedin = "<username>"
 twitter = "qtkmz"
-#facebook = "<username>"
-#google = "<username>"
-#stackoverflow = "<username>"
-#lastfm = "<username>"
-#goodreads = "<username>"
-#gitlab = "<username>"
-#bitbucket = "<username>"
-#fivehundredpx = "<username>"
-#flickr = "<username>"
-#foursquare = "<username>"
-#hackernews = "<username>"
-#kickstarter = "<username>"
-#patreon = "<username>"
-#pintrest = "<username>"
-#steam = "<username>"
-#reddit = "<username>"
-#snapchat = "<username>"
-#youtube = "<username>"
-#keybase = "<username>"
-#twitch = "<username>"
-#soundcloud = "<username>"
 tumblr = "qtkmz"
-#strava = "<username>"
-#skype = "<username>"
-#telegram = "<username>"
-#whatsapp = "<username>"
-#email = "you@example.com"
 
 ## Extras
 [params.extra]
-#copyright = "© 2016. Erlich Bachman. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
 copyright = "© 2019. tk3"
 poweredby = true
 highlightjs = true
