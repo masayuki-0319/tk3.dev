@@ -59,3 +59,8 @@ socialmarkup = true
     weight = 200
     url = "/about/"
 
+# Links format
+[permalinks]
+  # :year, :month, :day, :title, :slug
+  posts = "/posts/:year/:month/:slug/"
+
