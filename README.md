@@ -2,6 +2,15 @@
 
 ## Usage
 
+### Setup
+
+```
+$ git clone git@github.com:tk3/tk3.dev.git
+$ cd tk3.dev/
+$ git submodule init
+$ git submodule update
+```
+
 ### Start a local web server
 
 ```
