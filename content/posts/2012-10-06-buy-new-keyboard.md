@@ -10,5 +10,5 @@ slug: 241c27253dcefc1db77831451752c889e30566b9
 このキーボードも、長く愛用できたらいいなと思います。  
 
 
-<a href="http://f.hatena.ne.jp/qtakamitsu/20121006225134"><img src="http://img.f.hatena.ne.jp/images/fotolife/q/qtakamitsu/20121006/20121006225134.jpg" alt="HHKB Professional JP"></a>
+<a href="https://f.hatena.ne.jp/qtakamitsu/20121006225134"><img src="https://img.f.hatena.ne.jp/images/fotolife/q/qtakamitsu/20121006/20121006225134.jpg" alt="HHKB Professional JP"></a>
 

@@ -13,9 +13,9 @@ slug: ad399f33a85664a4cfca33f39d035a141fbfbb0f
 車のとおりがそれ程多くはないので、確認を怠らなければ問題ないと思いますけれど。  
 
 
-<a href="http://www.flickr.com/photos/69810711@N06/6920643731/" title="L1000695 by qtakamitsu, on Flickr"><img src="http://farm8.staticflickr.com/7059/6920643731_bfa566d36b_m.jpg" width="240" height="161" alt="L1000695"></a>
-<a href="http://www.flickr.com/photos/69810711@N06/6774539720/" title="kururi castle  by qtakamitsu, on Flickr"><img src="http://farm8.staticflickr.com/7186/6774539720_c08259a7bb_m.jpg" width="240" height="161" alt="kururi castle "></a>
-<a href="http://www.flickr.com/photos/69810711@N06/6774542880/" title="ramen by qtakamitsu, on Flickr"><img src="http://farm8.staticflickr.com/7210/6774542880_a50a69e48d_m.jpg" width="240" height="161" alt="ramen"></a>
+<a href="https://www.flickr.com/photos/69810711@N06/6920643731/" title="L1000695 by qtakamitsu, on Flickr"><img src="https://farm8.staticflickr.com/7059/6920643731_bfa566d36b_m.jpg" width="240" height="161" alt="L1000695"></a>
+<a href="https://www.flickr.com/photos/69810711@N06/6774539720/" title="kururi castle  by qtakamitsu, on Flickr"><img src="https://farm8.staticflickr.com/7186/6774539720_c08259a7bb_m.jpg" width="240" height="161" alt="kururi castle "></a>
+<a href="https://www.flickr.com/photos/69810711@N06/6774542880/" title="ramen by qtakamitsu, on Flickr"><img src="https://farm8.staticflickr.com/7210/6774542880_a50a69e48d_m.jpg" width="240" height="161" alt="ramen"></a>
 
 そういえば、城に行くまでの道のりで、よく上空を飛行機が飛んでたっけ。  
 あれはどこから飛んできているんだろうかね。羽田からか、成田からかは、わからない。

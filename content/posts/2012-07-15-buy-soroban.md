@@ -13,5 +13,5 @@ slug: 75a7c89966de003c30dca41fb203d4b5e86fbb74
 少しずつでもいいから、前のようにそろばんをはじけるようになりたい。
 
 
-<a href="http://f.hatena.ne.jp/qtakamitsu/20120716183303"><img src="http://img.f.hatena.ne.jp/images/fotolife/q/qtakamitsu/20120716/20120716183303.jpg" alt="20120716183303"></a>
+<a href="https://f.hatena.ne.jp/qtakamitsu/20120716183303"><img src="https://img.f.hatena.ne.jp/images/fotolife/q/qtakamitsu/20120716/20120716183303.jpg" alt="20120716183303"></a>
 

@@ -11,10 +11,10 @@ slug: 75373fa9a2f8d108d7245e9bbb344cd9c7b8cffc
 
 早く外で試し撮りがしたいなー。
 
-<a href="http://f.hatena.ne.jp/qtakamitsu/20111225191239"><img src="http://img.f.hatena.ne.jp/images/fotolife/q/qtakamitsu/20111225/20111225191239.jpg" alt="20111225191239"></a>
+<a href="https://f.hatena.ne.jp/qtakamitsu/20111225191239"><img src="https://img.f.hatena.ne.jp/images/fotolife/q/qtakamitsu/20111225/20111225191239.jpg" alt="20111225191239"></a>
 
 開閉できるようになっていて、マニュアルなどは段の箱に収まっている。
 
-<a href="http://f.hatena.ne.jp/qtakamitsu/20111225191357"><img src="http://img.f.hatena.ne.jp/images/fotolife/q/qtakamitsu/20111225/20111225191357.jpg" alt="20111225191357"></a>
+<a href="https://f.hatena.ne.jp/qtakamitsu/20111225191357"><img src="https://img.f.hatena.ne.jp/images/fotolife/q/qtakamitsu/20111225/20111225191357.jpg" alt="20111225191357"></a>
 
-<a href="http://f.hatena.ne.jp/qtakamitsu/20111225191632"><img src="http://img.f.hatena.ne.jp/images/fotolife/q/qtakamitsu/20111225/20111225191632.jpg" alt="20111225191632"></a>
+<a href="https://f.hatena.ne.jp/qtakamitsu/20111225191632"><img src="https://img.f.hatena.ne.jp/images/fotolife/q/qtakamitsu/20111225/20111225191632.jpg" alt="20111225191632"></a>
