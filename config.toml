@@ -1,66 +1,59 @@
-## Basic Configuration
-
 baseurl = "https://tk3.dev/"
-builddrafts = false
-canonifyurls = false
-languageCode = "en-US"
+title = "tk3.dev"
+author = "tk3"
+copyright = "© 2019. tk3"
+languageCode = "ja-jp"
 
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 
-author = "tk3"
-title = "tk3"
-
-theme = "hugo-goa"
-
-## Hugo Built-in Features
-#disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
-googleAnalytics = "UA-146469501-1"
-enableRobotsTXT = true
-
-
-## Site Settings
-[params]
-author = "tk3"
-intro = "tk3's site"
-description = "OK, tk3"
-authorimage = "qtkmz4.png"
-dateformat = "Jan 2, 2006"
-
-## Site Meta Settings
-[params.meta]
-description = "Simple minimalist theme"
-keywords = "minimalist,blog,goa,hugo,developer"
-
-## Social Accounts
-[params.social]
-github = "tk3"
-instagram = "qtkmz"
-twitter = "qtkmz"
-tumblr = "qtkmz"
-
-## Extras
-[params.extra]
-copyright = "© 2019. tk3"
-poweredby = true
-highlightjs = true
-socialmarkup = true
-
-## Main Menu
-[[menu.main]]
-    name = "blog"
-    weight = 100
-    identifier = "blog"
-    url = "/posts/"
-[[menu.main]]
-    name = "about"
-    identifier = "about"
-    weight = 200
-    url = "/about/"
+# canonifyurls = true
+paginate = 10
+theme = "hugo-clarity"
 
 # Links format
 [permalinks]
   # :year, :month, :day, :title, :slug
   posts = "/posts/:year/:month/:slug/"
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    hl_Lines = "--"
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = false
+    # style = "monokai"
+    tabWidth = 2
+
+[params]
+author = "tk3"
+twitter = "@tk3inc"
+largeTwitterCard = false
+introDescription = ""
+
+ga_analytics = "UA-146469501-1"
+
+numberOfTagsShown = 14
+
+#fallBackOgImage = "img/qtkmz4.png"
+fallBackOgImage = ""
+
+codeMaxLines = 16
+codeLineNumbers = false
+
+mainSections = ["posts"]
+
+centerLogo = false
+
+#logo = "logos/logo.png"
+logo = ""
+
+figurePositionShow = false
+figurePositionLabel = "Figure"
+
+mobileNavigation = "left"
 

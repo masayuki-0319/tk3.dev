@@ -1,0 +1,9 @@
+- item: "github"
+  url: "https://github.com/tk3"
+- item: "twitter"
+  url: "https://twitter.com/tk3inc"
+- item: "twitter"
+  url: "https://twitter.com/qtkmz"
+- item: "rss"
+  url: "index.xml"
+  internal:  true

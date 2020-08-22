@@ -1,0 +1,6 @@
+- name: Home
+  link: /
+# - name: Mus
+#   link: /categories/music/
+- name: About
+  link: about/
