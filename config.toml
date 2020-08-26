@@ -1,59 +1,67 @@
 baseurl = "https://tk3.dev/"
-title = "tk3.dev"
-author = "tk3"
-copyright = "© 2019. tk3"
+title = "tk3's log"
 languageCode = "ja-jp"
-
-contentdir = "content"
-layoutdir = "layouts"
-publishdir = "public"
-
-# canonifyurls = true
-paginate = 10
-theme = "hugo-clarity"
+paginate = "10"
+theme = "mainroad"
+disqusShortname = ""
+googleAnalytics = "UA-146469501-1"
 
 # Links format
 [permalinks]
   # :year, :month, :day, :title, :slug
   posts = "/posts/:year/:month/:slug/"
 
-[markup]
-  [markup.highlight]
-    codeFences = true
-    guessSyntax = true
-    hl_Lines = "--"
-    lineNoStart = 1
-    lineNos = true
-    lineNumbersInTable = false
-    noClasses = false
-    # style = "monokai"
-    tabWidth = 2
+[Author]
+  name = "tk3"
+  bio = "tk3"
+  avatar = "img/qtkmz4.png"
 
-[params]
-author = "tk3"
-twitter = "@tk3inc"
-largeTwitterCard = false
-introDescription = ""
+[Params]
+  subtitle = ""
+  description = "tk3's Personal blog"
+  copyright = "tk3"
+  opengraph = true
+  schema = true
+  twitter_cards = true
+  readmore = false
+  authorbox = true
+  toc = true
+  pager = true
+  post_meta = ["author", "date", "categories", "translations"]
+  mainSections = ["posts"]
+  dateformat = "2006-01-02"
+  mathjax = true
+  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
+  mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
+  highlightColor = "#e22d30" # Override highlight color
+  customCSS = ["css/custom.css"] # Include custom CSS files
+  customJS = ["js/custom.js"] # Include custom JS files
 
-ga_analytics = "UA-146469501-1"
+[Params.logo]
+  image = "img/placeholder.png" # Logo image. Path relative to "static"
+  title = "tk3's log"
+  subtitle = "log"
 
-numberOfTagsShown = 14
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  list = "left"  # Configure layout for list pages
+  single = false # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+  # alternatively "ddg-search" can be used, to search via DuckDuckGo
+  # widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
 
-#fallBackOgImage = "img/qtkmz4.png"
-fallBackOgImage = ""
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget
 
-codeMaxLines = 16
-codeLineNumbers = false
+[Params.widgets.social]
+  twitter = "tk3inc"
+  instagram = "qtkmz"
+  github = "tk3"
 
-mainSections = ["posts"]
-
-centerLogo = false
-
-#logo = "logos/logo.png"
-logo = ""
-
-figurePositionShow = false
-figurePositionLabel = "Figure"
-
-mobileNavigation = "left"
+#-- Custom social links
+#--[[Params.widgets.social.custom]]
+#--  title = "My Home Page"
+#--  url = "http://example.com"
 
