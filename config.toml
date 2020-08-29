@@ -1,5 +1,5 @@
 baseurl = "https://tk3.dev/"
-title = "tk3's log"
+title = "tk3's log / 貴と蜜"
 languageCode = "ja-jp"
 paginate = "10"
 theme = "mainroad"
@@ -9,7 +9,7 @@ googleAnalytics = "UA-146469501-1"
 # Links format
 [permalinks]
   # :year, :month, :day, :title, :slug
-  posts = "/posts/:year/:month/:slug/"
+  posts = "/posts/:year/:month/:day/:slug/"
 
 [Author]
   name = "tk3"
@@ -38,8 +38,8 @@ googleAnalytics = "UA-146469501-1"
   customJS = ["js/custom.js"] # Include custom JS files
 
 [Params.logo]
-  image = "img/placeholder.png" # Logo image. Path relative to "static"
-  title = "tk3's log"
+  image = "img/taka_to_mitsu.jpg"
+  title = "tk3's log / 貴と蜜"
   subtitle = "log"
 
 [Params.sidebar]
