@@ -40,12 +40,12 @@ googleAnalytics = "UA-146469501-1"
 [Params.logo]
   image = "img/taka_to_mitsu.jpg"
   title = "tk3's log / 貴と蜜"
-  subtitle = "log"
+  subtitle = "日記。ときどきエッセイ"
 
 [Params.sidebar]
-  home = "right" # Configure layout for home page
-  list = "left"  # Configure layout for list pages
-  single = false # Configure layout for single pages
+  home = "right"
+  list = "right"
+  single = "right"
   # Enable widgets in given order
   widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
   # alternatively "ddg-search" can be used, to search via DuckDuckGo
@@ -59,6 +59,14 @@ googleAnalytics = "UA-146469501-1"
   twitter = "tk3inc"
   instagram = "qtkmz"
   github = "tk3"
+
+[[Menus.main]]
+  Name = "About"
+  URL = "/about"
+
+[[Menus.main]]
+  Name = "Top"
+  URL = "/"
 
 #-- Custom social links
 #--[[Params.widgets.social.custom]]
