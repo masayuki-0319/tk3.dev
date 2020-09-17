@@ -8,6 +8,8 @@ slug: e4e110977be55309e0cd3f935f8504daa24a0ffe
 全部をチェックしたつもりだが、数が多くて他にも欲しくなるものがあるかもしれない。  
 たまに Twitter で検索している。検索ワードは  [#技術書典 購入しました！ - Twitter検索 / Twitter](https://twitter.com/search?q=%23%E6%8A%80%E8%A1%93%E6%9B%B8%E5%85%B8%20%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81&src=typed_query) 。
 
+感想については追記する予定。
+
 ## 今回買ったもの
 
 ### [理論と実践でわかる職場の教育：教育心理学を学ぶ会](https://techbookfest.org/product/4822021055709184)
@@ -24,7 +26,7 @@ slug: e4e110977be55309e0cd3f935f8504daa24a0ffe
 
 ### [N/A magazine 創刊号：N/A](https://techbookfest.org/product/5823813245730816)
 
-表紙買い。
+表紙買い。タイトルも気になったので購入。
 
 ### [PokéAI #4:金銀汎用行動選択モデル編：ヤマブキ計算所](https://techbookfest.org/product/6193914738376704)
 
